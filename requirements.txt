@@ -1,0 +1,6 @@
+zulip
+httplib2 
+tensorflow
+nltk
+keras
+
