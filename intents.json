@@ -86,7 +86,7 @@
         "help"
       ],
       "responses":[
-        "I'm Covid-19 Vaccine Distribution Bot. You can ask me anything related to the vaccines and the vaccination process"
+        "I'm Covid Bot. You can ask me anything related to Covid-19. I will try my best to help you. You can also say remind me "
       ],
       "context":[
         ""
@@ -118,8 +118,7 @@
         "what is covid 19"
       ],
       "responses":[
-        "Coronaviruses are a large family of viruses which may cause illness in animals or humans. ",
-        "In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases",
+        "Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases",
         "COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."
       ],
       "context":[
@@ -136,10 +135,7 @@
         "symptoms?"
       ],
       "responses":[
-        "The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually.",
-        "Some people become infected but don’t develop any symptoms and don't feel unwell. Most people (about 80%) recover from the disease without needing special treatment.",
-        "Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. ",
-        "Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention."
+        "The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don't feel unwell. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention."
       ],
       "context":[
         ""
@@ -157,8 +153,7 @@
         "spreading of covid"
       ],
       "responses":[
-        "People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. ",
-        "People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick."
+        "People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick."
       ],
       "context":[
         ""
@@ -227,14 +222,7 @@
         "What can I do to protect and prevent the spread of coronavirus"
       ],
       "responses":[
-        "Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.",
-        "Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.",
-        "Avoid touching eyes, nose and mouth.",
-        "Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately.",
-        "Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.",
-        "If possible, avoid traveling to places  – especially if you are an older person or have diabetes, heart or lung disease.",
-        "Keep up to date on the latest COVID-19 hotspots (cities or local areas where COVID-19 is spreading widely).",
-        "Self-isolate by staying at home if you begin to feel unwell, even with mild symptoms such as headache, low grade fever (37.3 C or above) and slight runny nose, until you recover."
+        "1. Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.\n2. Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.\n3. Avoid touching eyes, nose and mouth.\n4. Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately.\n5. Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.\n6. If possible, avoid traveling to places  – especially if you are an older person or have diabetes, heart or lung disease.\n7. Keep up to date on the latest COVID-19 hotspots (cities or local areas where COVID-19 is spreading widely).\n8. Self-isolate by staying at home if you begin to feel unwell, even with mild symptoms such as headache, low grade fever (37.3 C or above) and slight runny nose, until you recover."
       ],
       "context":[
         ""
@@ -243,12 +231,12 @@
     {
       "tag":"protect_and_prevent_highalert",
       "patterns":[
-        "What can I do to protect myself andProtection measures for persons who are in or have recently visited (past 14 days) areas where COVID-19 is spreading prevent the spread of disease?",
+        "What can I do to protect myself if I have recently visited areas where COVID-19 is spreading?",
+        "Protection measures for persons who are in or have recently visited (past 14 days) areas where COVID-19 is spreading?",
         "Protection measures for persons who are in or have recently visited (past 14 days) areas where COVID-19 is spreading"
       ],
       "responses":[
-        "If you develop fever, cough and difficulty breathing, seek medical advice promptly as this may be due to a respiratory infection or other serious condition. Call in advance and tell your provider of any recent travel or contact with travelers.",
-        "Self-isolate by staying at home if you begin to feel unwell, even with mild symptoms such as headache, low grade fever (37.3 C or above) and slight runny nose, until you recover."
+        "If you develop fever, cough and difficulty breathing, seek medical advice promptly as this may be due to a respiratory infection or other serious condition. Call in advance and tell your provider of any recent travel or contact with travelers.\nSelf-isolate by staying at home if you begin to feel unwell, even with mild symptoms such as headache, low grade fever (37.3 C or above) and slight runny nose, until you recover."
       ],
       "context":[
         ""
@@ -265,8 +253,7 @@
       ],
       "responses":[
         "The risk depends on where you  are - and more specifically, whether there is a COVID-19 outbreak unfolding there.",
-        "For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world (cities or areas) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher.",
-        "COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the situation where you are or intend to go."
+        "For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world (cities or areas) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher.\nCOVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the situation where you are or intend to go."
       ],
       "context":[
         ""
@@ -287,9 +274,7 @@
         "Who is at risk of developing severe illness?"
       ],
       "responses":[
-        "Illness due to COVID-19 infection is generally mild, especially for children and young adults. However, it can cause serious illness: about 1 in every 5 people who catch it need hospital care.",
-        "We can channel our concerns into actions to protect ourselves, our loved ones and our communities.",
-        "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes)  appear to develop serious illness more often than others. "
+        "Illness due to COVID-19 infection is generally mild, especially for children and young adults. However, it can cause serious illness: about 1 in every 5 people who catch it need hospital care.\nWe can channel our concerns into actions to protect ourselves, our loved ones and our communities. While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes)  appear to develop serious illness more often than others. "
       ],
       "context":[
         ""
@@ -342,7 +327,7 @@
       ],
       "responses":[
         "SARS was more deadly but much less infectious than COVID-19. There have been no outbreaks of SARS anywhere in the world since 2003.",
-        "No. The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different."
+        "No, the virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different."
       ],
       "context":[
         ""
@@ -393,7 +378,7 @@
       ],
       "responses":[
         "Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available.",
-        "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease."
+        "The \"incubation period\" means the time between catching the virus and beginning to have symptoms of the disease."
       ],
       "context":[
         ""
@@ -411,9 +396,7 @@
       "responses":[
         "Coronaviruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which may then spread to other people.",
         "SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels",
-        "Possible animal sources of COVID-19 have not yet been confirmed",
-        "To protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals",
-        "Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or undercooked animal products"
+        "Possible animal sources of COVID-19 have not yet been confirmed.\nTo protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals\nHandle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or undercooked animal products"
       ],
       "context":[
         ""
@@ -443,9 +426,7 @@
         "Time that corona stays on a surface"
       ],
       "responses":[
-        "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other coronaviruses",
-        "Studies suggest that coronaviruses (including preliminary information on the COVID-19 virus) may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment)",
-        "If you think a surface may be infected, clean it with simple disinfectant to kill the virus and protect yourself and others."
+        "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other coronaviruses. Studies suggest that coronaviruses (including preliminary information on the COVID-19 virus) may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment)\nIf you think a surface may be infected, clean it with simple disinfectant to kill the virus and protect yourself and others."
       ],
       "context":[
         ""
@@ -459,7 +440,7 @@
         "Is it safe to take deliveries during corona"
       ],
       "responses":[
-        "Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low. "
+        "Yes, it is safe. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low. "
       ],
       "context":[
         ""
@@ -473,9 +454,7 @@
         "Dont's in corona"
       ],
       "responses":[
-        "Smoking",
-        "Wearing multiple masks",
-        "Taking antibiotics"
+        "1. Smoking\n2. Wearing multiple masks\n3. Taking antibiotics"
       ],
       "context":[
         ""
@@ -491,10 +470,8 @@
         "Start of corona"
       ],
       "responses":[
-        "Currently, the source of SARS-CoV-2, the coronavirus (CoV) causing COVID-19 is unknown.",
-        "The first human cases of COVID-19 were identified in Wuhan City, China in December 2019.",
-        "SARS-CoV, the virus which caused the SARS outbreak in 2003, jumped from an animal reservoir (civet cats, a farmed wild animal) to humans and then spread between humans",
-        "Until the source of this virus is identified and controlled, there is a risk of reintroduction of the virus in the human population and the risk of new outbreaks like the ones we are currently experiencing."
+        "Currently, the source of SARS-CoV-2, the coronavirus (CoV) causing COVID-19 is unknown.\nThe first human cases of COVID-19 were identified in Wuhan City, China in December 2019.",
+        "SARS-CoV, the virus which caused the SARS outbreak in 2003, jumped from an animal reservoir (civet cats, a farmed wild animal) to humans and then spread between humans.\nUntil the source of this virus is identified and controlled, there is a risk of reintroduction of the virus in the human population and the risk of new outbreaks like the ones we are currently experiencing."
       ],
       "context":[
         ""
@@ -524,8 +501,7 @@
         "Pregnant"
       ],
       "responses":[
-        "At present there is no evidence that they are at higher risk of severe illness than the general population",
-        "Due to changes in their bodies and immune systems, we know that pregnant women can be badly affected by some respiratory infections. It is therefore important that they take precautions to protect themselves against COVID-19, and report possible symptoms (including fever, cough or difficulty breathing) to their healthcare provider.",
+        "At present there is no evidence that they are at higher risk of severe illness than the general population.\nDue to changes in their bodies and immune systems, we know that pregnant women can be badly affected by some respiratory infections. It is therefore important that they take precautions to protect themselves against COVID-19, and report possible symptoms (including fever, cough or difficulty breathing) to their healthcare provider.",
         "Pregnant women should take the same precautions to avoid COVID-19 infection as other people",
         "Pregnant women and women who have recently delivered – including those affected by COVID-19 - should attend their routine care appointments"
       ],
@@ -615,8 +591,7 @@
       ],
       "responses":[
         "COVID-19 and influenza viruses have a similar disease presentation. That is, they both cause respiratory disease, which presents as a wide range of illness from asymptomatic or mild through to severe disease and death.",
-        "Both viruses are transmitted by contact, droplets and fomites.",
-        "The speed of transmission is an important point of difference between the two viruses. Influenza has a shorter median incubation period (the time from infection to appearance of symptoms) and a shorter serial interval (the time between successive cases) than COVID-19 virus.",
+        "Both viruses are transmitted by contact, droplets and fomites.\nHowever, the speed of transmission is an important point of difference between the two viruses. Influenza has a shorter median incubation period (the time from infection to appearance of symptoms) and a shorter serial interval (the time between successive cases) than COVID-19 virus.",
         "Mortality for COVID-19 appears higher than for influenza, especially seasonal influenza.",
         "Those most at risk for severe influenza infection are children, pregnant women, elderly, those with underlying chronic medical conditions and those who are immunosuppressed."
       ],
