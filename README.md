@@ -9,5 +9,8 @@ A chatbot made using Zulip API that gives information related to Covid-19
 5. In ``` bot.py ``` , change site in ``` self.client = zulip.Client(site="https://chirag-jain.zulipchat.com/api/") ``` to url of your created zulip realm.Do the same for ``` BOT_MAIL ``` variable.  
 6. Run ``` bot.py ``` using python 3. ``` python3 bot.py ```
 7. Head over to your created zulip realm and start using the bot.
-# 
+
+# Live video demo
+
+Watch at [https://www.youtube.com/watch?v=1PAg6Sf8ZC8&feature=youtu.be](https://www.youtube.com/watch?v=1PAg6Sf8ZC8&feature=youtu.be)
 
