@@ -114,8 +114,7 @@ class ZulipBot(object):
 		if content[0].lower() == "covidbot" or content[0] == "@**CovidBot**":
 			ip = content[1:]
 			ip = " ".join(ip)
-			print(ip)
-			message = get_bot_response(ip)
+			message = get_bot_response(ip) 
 			print(message)
 			self.client.send_message({
 				"type": "stream",
